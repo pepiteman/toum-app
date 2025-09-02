@@ -33,7 +33,7 @@ This ensures that you can only add people you’ve already seen or know personal
 	•	Confirm your choice. Your account and data will be permanently removed.
 
 4. Where can I read the Privacy Policy?
-👉 View Privacy Policy
+👉 [View Privacy Policy](https://github.com/pepiteman/toum-app/blob/main/privacy-policy.md)
 
 ⸻
 
